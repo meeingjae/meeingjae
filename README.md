@@ -6,7 +6,7 @@
 
 [Mingble (Mideum)](https://medium.com/@dlsqo2005_53985)
 
-우아한 테크 캠프 Pro 5기 `(2022.10.24 ~ ing)`
+우아한 테크 캠프 Pro 5기 수료 `(2022.10.24 ~ 2022.12.23)`
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meeingjae)](https://github.com/anuraghazra/github-readme-stats)
